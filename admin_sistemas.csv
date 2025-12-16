@@ -1,0 +1,3 @@
+Name,Surname1,Surname2,account,DNI,Department,Enabled,Password,TurnPassDays,email,Description
+PEDRO,GOMIS,ZAMBUJO,pgomis,12345680C,admin_sistemas,yes,CasaVerde2025!,20,pgomis@tirant.upv.es,Administrador de sistemas
+PIEDAD,VALENCIA,RUIZ,pvalencia,12345681D,admin_sistemas,yes,CasaVerde2025!,20,pvalencia@tirant.upv.es,Administrador de sistemas
