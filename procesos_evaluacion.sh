@@ -1,3 +1,0 @@
-Name,Surname1,Surname2,account,DNI,Department,Enabled,Password,TurnPassDays,email,Description
-LUIS,NAVARRO,RUIZ,lnavarro,12345678A,procesos_evaluacion,yes,CasaVerde2025!,20,lnavarro@tirant.upv.es,Usuario del departamento de procesos de evaluación
-SUSANA,ALBAU,SANCHO,salbau,12345679B,procesos_evaluacion,yes,CasaVerde2025!,20,salbau@tirant.upv.es,Usuario del departamento de procesos de evaluación
